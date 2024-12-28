@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jingwen (Jessica) Wang"
+title                    : "Dr. Wang"
 title_separator          : "-"
-name                     : &name "Dr. Wang, Jingwen (Jessica)"
+name                     : &name "Jingwen (Jessica) Wang"
 description              : &description "Assistant Professor of Computer Science"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
